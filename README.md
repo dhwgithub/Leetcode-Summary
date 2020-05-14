@@ -8,3 +8,10 @@
 ## 堆（heap_items）
 - 最小的k个数（The_smallest_k_number.java）
 
+## 位运算（bit_manipulation_items）
+- 数组中出现次数超过一半的数字（More_than_half_of_the_occurrences_in_the_array.java）
+- 二进制中1的个数（The_number_of_1s_in_binary.java）
+- 主要元素（Main_element.java）
+- 消失的数字（Disappearing_number.java）
+- 不用加号的加法（Addition_without_plus_sign.java）
+- 最大数值（Maximum_value.java）
