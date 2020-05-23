@@ -32,16 +32,19 @@
 - 从上到下打印二叉树II（Print_a_binary_tree_from_top_to_bottom_II）
 - 对称的二叉树（Symmetric_binary_tree）
 - 二叉树的镜像（Mirror_of_the_binary_tree）
+- 检查平衡性（Check_balance）
+- 最小高度树（Minimum_height_tree）
+- BiNode（BiNode）
 
 ------
 
-**2020.5.21更新/创建内容：**
+**2020.5.23更新/创建内容：**
 
-从上到下打印二叉树II
+检查平衡性
 
-对称的二叉树
+最小高度树
 
-二叉树的镜像
+BiNode
 
 ------
 
