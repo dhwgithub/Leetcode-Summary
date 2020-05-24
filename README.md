@@ -1,5 +1,7 @@
 # Leetcode 算法总结 （Java版）
 
+*题库来源：https://leetcode-cn.com/problemset/all/*
+
 ## 栈（stack_items）
 
 - 用两个栈实现队列（Implement_queue_with_two_stacks.java）
@@ -36,15 +38,42 @@
 - 最小高度树（Minimum_height_tree）
 - BiNode（BiNode）
 
+## 深度优先搜索（depth_first_search_items）
+
+- 平衡二叉树（Balanced_binary_tree.java）
+- 检查平衡性（Check_balance）
+- 最小高度树（Minimum_height_tree）
+- 颜色填充（Color_fill）
+
+## 广度优先搜索（breadth_first_search_items）
+
+- 从上到下打印二叉树II（Print_a_binary_tree_from_top_to_bottom_II）
+
+## 设计（design_items）
+
+- 包含min函数的栈（The_stack_containing_the_min_function.java）
+- 用两个栈实现队列（Implement_queue_with_two_stacks.java）
+- 动物收容所（Animal_shelter）
+
 ------
 
-**2020.5.23更新/创建内容：**
+**2020.5.24更新/创建内容：**
 
-检查平衡性
+创建深度优先搜索包
 
-最小高度树
+克隆相关题目3道
 
-BiNode
+颜色填充
+
+创建广度优先搜索包
+
+克隆相关题目1道
+
+创建设计包
+
+克隆相关题目2道
+
+动物收容所
 
 ------
 
