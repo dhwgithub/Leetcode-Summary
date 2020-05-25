@@ -54,26 +54,39 @@
 - 包含min函数的栈（The_stack_containing_the_min_function.java）
 - 用两个栈实现队列（Implement_queue_with_two_stacks.java）
 - 动物收容所（Animal_shelter）
+- 三合一（TripleInOne）
+
+## 递归（recursion_items）
+
+- BiNode（BiNode）
+- 汉诺塔问题（Hanoi_problem）
+- 跳水板（Diving_board）
+- 青蛙跳台阶问题（Frog_jumping_steps）
+
+## 数组（array_items）
+
+- 主要元素（Main_element.java）
+- 消失的数字（Disappearing_number.java）
 
 ------
 
-**2020.5.24更新/创建内容：**
+**2020.5.25更新/创建内容：**
 
-创建深度优先搜索包
+三合一
 
-克隆相关题目3道
-
-颜色填充
-
-创建广度优先搜索包
+创建递归包
 
 克隆相关题目1道
 
-创建设计包
+汉诺塔问题
+
+跳水板
+
+青蛙跳台阶问题
+
+创建数组包
 
 克隆相关题目2道
-
-动物收容所
 
 ------
 
