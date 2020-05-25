@@ -2,6 +2,13 @@
 
 *题库来源：https://leetcode-cn.com/problemset/all/*
 
+<details>
+    <summary><h3>栈（stack_items）<h3></summary>
+    用两个栈实现队列（Implement_queue_with_two_stacks.java）<br/>
+	  滑动窗口的最大值（Maximum_value_of_sliding_window.java）<br/>
+	  包含min函数的栈（The_stack_containing_the_min_function.java）<br/>
+</details>
+
 ## 栈（stack_items）
 
 - 用两个栈实现队列（Implement_queue_with_two_stacks.java）
