@@ -70,32 +70,27 @@
 	&ensp;&ensp;跳水板（Diving_board）<br/>
 	&ensp;&ensp;青蛙跳台阶问题（Frog_jumping_steps）<br/>
 </details>
-
 <details>
     &ensp;&ensp;<summary><big><b>数组（array_items）</b></big></summary><br/>
     &ensp;&ensp;主要元素（Main_element.java）<br/>
 	&ensp;&ensp;消失的数字（Disappearing_number.java）<br/>
+    &ensp;&ensp;合并排序的数组（Merge_sorted_array.java）<br/>
+    &ensp;&ensp;连续数列（Continuous_sequence.java）<br/>
+    &ensp;&ensp;珠玑妙算（Abacus.java）<br/>
+    &ensp;&ensp;0～n-1中缺失的数字（Numbers_missing_from_0_to_n_1.java）<br/>
 </details>
 
 ------
 
-**2020.5.25更新/创建内容：**
+**2020.5.26更新/创建内容：**
 
-三合一
+合并排序的数组
 
-创建递归包
+连续数列
 
-克隆相关题目1道
+珠玑妙算
 
-汉诺塔问题
-
-跳水板
-
-青蛙跳台阶问题
-
-创建数组包
-
-克隆相关题目2道
+0～n-1中缺失的数字
 
 ------
 
