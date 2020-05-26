@@ -54,7 +54,6 @@
     <summary><big><b>广度优先搜索（breadth_first_search_items）</b></big></summary><br/>
     &ensp;&ensp;从上到下打印二叉树II（Print_a_binary_tree_from_top_to_bottom_II）<br/>
 </details>
-
 <details>
     <summary><big><b>设计（design_items）</b></big></summary><br/>
     &ensp;&ensp;包含min函数的栈（The_stack_containing_the_min_function.java）<br/>
@@ -70,6 +69,7 @@
 	&ensp;&ensp;跳水板（Diving_board）<br/>
 	&ensp;&ensp;青蛙跳台阶问题（Frog_jumping_steps）<br/>
 </details>
+
 <details>
     &ensp;&ensp;<summary><big><b>数组（array_items）</b></big></summary><br/>
     &ensp;&ensp;主要元素（Main_element.java）<br/>
@@ -78,6 +78,8 @@
     &ensp;&ensp;连续数列（Continuous_sequence.java）<br/>
     &ensp;&ensp;珠玑妙算（Abacus.java）<br/>
     &ensp;&ensp;0～n-1中缺失的数字（Numbers_missing_from_0_to_n_1.java）<br/>
+    &ensp;&ensp;顺时针打印矩阵（Print_matrix_clockwise.java）<br/>
+    &ensp;&ensp;数组中重复的数字（Repeating_numbers_in_the_array.java）<br/>
 </details>
 
 ------
@@ -91,6 +93,10 @@
 珠玑妙算
 
 0～n-1中缺失的数字
+
+顺时针打印矩阵
+
+数组中重复的数字
 
 ------
 
