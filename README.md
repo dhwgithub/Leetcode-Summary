@@ -49,11 +49,11 @@
 	&ensp;&ensp;最小高度树（Minimum_height_tree）<br/>
 	&ensp;&ensp;颜色填充（Color_fill）<br/>
 </details>
-
 <details>
     <summary><big><b>广度优先搜索（breadth_first_search_items）</b></big></summary><br/>
     &ensp;&ensp;从上到下打印二叉树II（Print_a_binary_tree_from_top_to_bottom_II）<br/>
 </details>
+
 <details>
     <summary><big><b>设计（design_items）</b></big></summary><br/>
     &ensp;&ensp;包含min函数的栈（The_stack_containing_the_min_function.java）<br/>
@@ -61,6 +61,7 @@
 	&ensp;&ensp;动物收容所（Animal_shelter）<br/>
 	&ensp;&ensp;三合一（TripleInOne）<br/>
 </details>
+
 
 <details>
     <summary><big><b>递归（recursion_items）</b></big></summary><br/>
@@ -81,22 +82,32 @@
     &ensp;&ensp;顺时针打印矩阵（Print_matrix_clockwise.java）<br/>
     &ensp;&ensp;数组中重复的数字（Repeating_numbers_in_the_array.java）<br/>
 </details>
+<details>
+    &ensp;&ensp;<summary><big><b>哈希表（hash_table_items）</b></big></summary><br/>
+    &ensp;&ensp;第一个只出现一次的字符（The_first_character_that_appears_only_once.java）<br/>
+    &ensp;&ensp;数组中重复的数字（Repeating_numbers_in_the_array.java）<br/>
+    &ensp;&ensp;回文排列（Palindrome.java）<br/>
+</details>
+
+<details>
+    &ensp;&ensp;<summary><big><b>链表（linked_list_items）</b></big></summary><br/>
+</details>
+
+
 
 ------
 
-**2020.5.26更新/创建内容：**
+**2020.5.27更新/创建内容：**
 
-合并排序的数组
+创建hash_table_items包
 
-连续数列
-
-珠玑妙算
-
-0～n-1中缺失的数字
-
-顺时针打印矩阵
+第一个只出现一次的字符
 
 数组中重复的数字
+
+回文排列
+
+创建linked_list_items包
 
 ------
 
