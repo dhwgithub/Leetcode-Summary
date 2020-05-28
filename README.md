@@ -13,7 +13,6 @@
     <summary><big><b>堆（heap_items）</b></big></summary><br/>
     &ensp;&ensp;最小的k个数（The_smallest_k_number.java）<br/>
 </details>
-
 <details>
     <summary><big><b>位运算（bit_manipulation_items）</b></big></summary><br/>
     &ensp;&ensp;数组中出现次数超过一半的数字（More_than_half_of_the_occurrences_in_the_array.java）<br/>
@@ -27,6 +26,7 @@
     &ensp;&ensp;翻转数位（Flip_digital.java）<br/>
     &ensp;&ensp;插入（insert.java）<br/>
 </details>
+
 <details>
     <summary><big><b>树（tree_items）</b></big></summary><br/>
     &ensp;&ensp;二叉树的最近公共祖先（The_nearest_public_ancestor_of_the_binary_tree.java）<br/>
@@ -40,6 +40,7 @@
 	&ensp;&ensp;最小高度树（Minimum_height_tree.java）<br/>
 	&ensp;&ensp;BiNode（BiNode.java）<br/>
 </details>
+
 
 <details>
     <summary><big><b>深度优先搜索（depth_first_search_items）</b></big></summary><br/>
@@ -88,11 +89,18 @@
     &ensp;&ensp;数组中重复的数字（Repeating_numbers_in_the_array.java）<br/>
     &ensp;&ensp;回文排列（Palindrome.java）<br/>
 </details>
-
 <details>
     &ensp;&ensp;<summary><big><b>链表（linked_list_items）</b></big></summary><br/>
     &ensp;&ensp;返回倒数第 k 个节点（Returns_the_penultimate_k_th_node.java）<br/>
     &ensp;&ensp;两个链表的第一个公共节点（The_first_common_node_of_two_linked_lists.java）<br/>
+    &ensp;&ensp;删除链表的节点（Delete_the_node_of_the_linked_list.java）<br/>
+    &ensp;&ensp;反转链表（Reverse_linked_list.java）<br/>
+    &ensp;&ensp;回文链表（Palindrome_list.java）<br/>
+    &ensp;&ensp;移除重复节点（Remove_duplicate_nodes.java）<br/>
+</details>
+
+<details>
+    &ensp;&ensp;<summary><big><b>数学（math_items）</b></big></summary><br/>
 </details>
 
 ------
@@ -102,6 +110,16 @@
 返回倒数第 k 个节点
 
 两个链表的第一个公共节点
+
+删除链表的节点
+
+反转链表
+
+回文链表
+
+移除重复节点
+
+创建math_items包
 
 ------
 
