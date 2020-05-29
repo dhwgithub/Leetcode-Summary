@@ -8,10 +8,12 @@
     &ensp;&ensp;滑动窗口的最大值（Maximum_value_of_sliding_window.java）<br/>
     &ensp;&ensp;包含min函数的栈（The_stack_containing_the_min_function.java）<br/>
 </details>
+
 <details>
     <summary><big><b>堆（heap_items）</b></big></summary><br/>
     &ensp;&ensp;最小的k个数（The_smallest_k_number.java）<br/>
 </details>
+
 
 <details>
     <summary><big><b>位运算（bit_manipulation_items）</b></big></summary><br/>
@@ -26,8 +28,6 @@
     &ensp;&ensp;翻转数位（Flip_digital.java）<br/>
     &ensp;&ensp;插入（insert.java）<br/>
 </details>
-
-
 <details>
     <summary><big><b>树（tree_items）</b></big></summary><br/>
     &ensp;&ensp;二叉树的最近公共祖先（The_nearest_public_ancestor_of_the_binary_tree.java）<br/>
@@ -41,6 +41,7 @@
 	&ensp;&ensp;最小高度树（Minimum_height_tree.java）<br/>
 	&ensp;&ensp;BiNode（BiNode.java）<br/>
 </details>
+
 <details>
     <summary><big><b>深度优先搜索（depth_first_search_items）</b></big></summary><br/>
     &ensp;&ensp;平衡二叉树（Balanced_binary_tree.java）<br/>
@@ -48,6 +49,7 @@
 	&ensp;&ensp;最小高度树（Minimum_height_tree.java）<br/>
 	&ensp;&ensp;颜色填充（Color_fill.java）<br/>
 </details>
+
 
 <details>
     <summary><big><b>广度优先搜索（breadth_first_search_items）</b></big></summary><br/>
@@ -69,7 +71,6 @@
 	&ensp;&ensp;跳水板（Diving_board.java）<br/>
 	&ensp;&ensp;青蛙跳台阶问题（Frog_jumping_steps.java）<br/>
 </details>
-
 <details>
     &ensp;&ensp;<summary><big><b>数组（array_items）</b></big></summary><br/>
     &ensp;&ensp;主要元素（Main_element.java）<br/>
@@ -81,12 +82,14 @@
     &ensp;&ensp;顺时针打印矩阵（Print_matrix_clockwise.java）<br/>
     &ensp;&ensp;数组中重复的数字（Repeating_numbers_in_the_array.java）<br/>
 </details>
+
 <details>
     &ensp;&ensp;<summary><big><b>哈希表（hash_table_items）</b></big></summary><br/>
     &ensp;&ensp;第一个只出现一次的字符（The_first_character_that_appears_only_once.java）<br/>
     &ensp;&ensp;数组中重复的数字（Repeating_numbers_in_the_array.java）<br/>
     &ensp;&ensp;回文排列（Palindrome.java）<br/>
 </details>
+
 
 <details>
     &ensp;&ensp;<summary><big><b>链表（linked_list_items）</b></big></summary><br/>
@@ -110,7 +113,6 @@
     &ensp;&ensp;<summary><big><b>字符串（string_items）</b></big></summary><br/>
     &ensp;&ensp;回文排列（Palindrome.java）<br/>
 </details>
-
 ------
 
 **2020.5.29更新/创建内容：**
@@ -124,18 +126,6 @@
 创建string_items包
 
 克隆1道相关题目
-
-两个链表的第一个公共节点
-
-删除链表的节点
-
-反转链表
-
-回文链表
-
-移除重复节点
-
-创建math_items包
 
 ------
 
