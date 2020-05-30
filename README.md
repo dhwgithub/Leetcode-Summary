@@ -13,8 +13,6 @@
     <summary><big><b>堆（heap_items）</b></big></summary><br/>
     &ensp;&ensp;最小的k个数（The_smallest_k_number.java）<br/>
 </details>
-
-
 <details>
     <summary><big><b>位运算（bit_manipulation_items）</b></big></summary><br/>
     &ensp;&ensp;数组中出现次数超过一半的数字（More_than_half_of_the_occurrences_in_the_array.java）<br/>
@@ -28,6 +26,7 @@
     &ensp;&ensp;翻转数位（Flip_digital.java）<br/>
     &ensp;&ensp;插入（insert.java）<br/>
 </details>
+
 <details>
     <summary><big><b>树（tree_items）</b></big></summary><br/>
     &ensp;&ensp;二叉树的最近公共祖先（The_nearest_public_ancestor_of_the_binary_tree.java）<br/>
@@ -42,6 +41,7 @@
 	&ensp;&ensp;BiNode（BiNode.java）<br/>
 </details>
 
+
 <details>
     <summary><big><b>深度优先搜索（depth_first_search_items）</b></big></summary><br/>
     &ensp;&ensp;平衡二叉树（Balanced_binary_tree.java）<br/>
@@ -49,8 +49,6 @@
 	&ensp;&ensp;最小高度树（Minimum_height_tree.java）<br/>
 	&ensp;&ensp;颜色填充（Color_fill.java）<br/>
 </details>
-
-
 <details>
     <summary><big><b>广度优先搜索（breadth_first_search_items）</b></big></summary><br/>
     &ensp;&ensp;从上到下打印二叉树II（Print_a_binary_tree_from_top_to_bottom_II.java）<br/>
@@ -63,7 +61,6 @@
 	&ensp;&ensp;动物收容所（Animal_shelter.java）<br/>
 	&ensp;&ensp;三合一（TripleInOne.java）<br/>
 </details>
-
 <details>
     <summary><big><b>递归（recursion_items）</b></big></summary><br/>
     &ensp;&ensp;BiNode（BiNode.java）<br/>
@@ -71,6 +68,7 @@
 	&ensp;&ensp;跳水板（Diving_board.java）<br/>
 	&ensp;&ensp;青蛙跳台阶问题（Frog_jumping_steps.java）<br/>
 </details>
+
 <details>
     &ensp;&ensp;<summary><big><b>数组（array_items）</b></big></summary><br/>
     &ensp;&ensp;主要元素（Main_element.java）<br/>
@@ -83,14 +81,13 @@
     &ensp;&ensp;数组中重复的数字（Repeating_numbers_in_the_array.java）<br/>
 </details>
 
+
 <details>
     &ensp;&ensp;<summary><big><b>哈希表（hash_table_items）</b></big></summary><br/>
     &ensp;&ensp;第一个只出现一次的字符（The_first_character_that_appears_only_once.java）<br/>
     &ensp;&ensp;数组中重复的数字（Repeating_numbers_in_the_array.java）<br/>
     &ensp;&ensp;回文排列（Palindrome.java）<br/>
 </details>
-
-
 <details>
     &ensp;&ensp;<summary><big><b>链表（linked_list_items）</b></big></summary><br/>
     &ensp;&ensp;返回倒数第 k 个节点（Returns_the_penultimate_k_th_node.java）<br/>
@@ -108,25 +105,32 @@
     &ensp;&ensp;阶乘尾数（Factorial_mantissa.java）<br/>
     &ensp;&ensp;打印从1到最大的n位数（Print_n_digits_from_1_to_maximum.java）<br/>
 </details>
-
 <details>
     &ensp;&ensp;<summary><big><b>字符串（string_items）</b></big></summary><br/>
     &ensp;&ensp;回文排列（Palindrome.java）<br/>
+    &ensp;&ensp;翻转单词顺序（Flip_word_order.java）<br/>
+    &ensp;&ensp;字符串轮转（String_rotation.java）<br/>
+    &ensp;&ensp;URL化（URLization.java）<br/>
+</details>
+
+<details>
+    &ensp;&ensp;<summary><big><b>二分查找（binary_search_items）</b></big></summary><br/>
+    &ensp;&ensp;0～n-1中缺失的数字（Numbers_missing_from_0_to_n_1.java）<br/>
 </details>
 
 ---
 
-**2020.5.29更新/创建内容：**
+**2020.5.30更新/创建内容：**
 
-克隆2道相关题目
+翻转单词顺序
 
-阶乘尾数
+字符串轮转
 
-打印从1到最大的n位数
+URL化
 
-创建string_items包
+创建binary_search_items包
 
-克隆1道相关题目
+克隆相关题目1道
 
 ------
 
