@@ -8,10 +8,12 @@
     &ensp;&ensp;滑动窗口的最大值（Maximum_value_of_sliding_window.java）<br/>
     &ensp;&ensp;包含min函数的栈（The_stack_containing_the_min_function.java）<br/>
 </details>
+
 <details>
     <summary><big><b>堆（heap_items）</b></big></summary><br/>
     &ensp;&ensp;最小的k个数（The_smallest_k_number.java）<br/>
 </details>
+
 
 <details>
     <summary><big><b>位运算（bit_manipulation_items）</b></big></summary><br/>
@@ -26,8 +28,6 @@
     &ensp;&ensp;翻转数位（Flip_digital.java）<br/>
     &ensp;&ensp;插入（insert.java）<br/>
 </details>
-
-
 <details>
     <summary><big><b>树（tree_items）</b></big></summary><br/>
     &ensp;&ensp;二叉树的最近公共祖先（The_nearest_public_ancestor_of_the_binary_tree.java）<br/>
@@ -41,6 +41,7 @@
 	&ensp;&ensp;最小高度树（Minimum_height_tree.java）<br/>
 	&ensp;&ensp;BiNode（BiNode.java）<br/>
 </details>
+
 <details>
     <summary><big><b>深度优先搜索（depth_first_search_items）</b></big></summary><br/>
     &ensp;&ensp;平衡二叉树（Balanced_binary_tree.java）<br/>
@@ -48,6 +49,7 @@
 	&ensp;&ensp;最小高度树（Minimum_height_tree.java）<br/>
 	&ensp;&ensp;颜色填充（Color_fill.java）<br/>
 </details>
+
 
 <details>
     <summary><big><b>广度优先搜索（breadth_first_search_items）</b></big></summary><br/>
@@ -69,8 +71,6 @@
 	&ensp;&ensp;跳水板（Diving_board.java）<br/>
 	&ensp;&ensp;青蛙跳台阶问题（Frog_jumping_steps.java）<br/>
 </details>
-
-
 <details>
     &ensp;&ensp;<summary><big><b>数组（array_items）</b></big></summary><br/>
     &ensp;&ensp;主要元素（Main_element.java）<br/>
@@ -82,12 +82,14 @@
     &ensp;&ensp;顺时针打印矩阵（Print_matrix_clockwise.java）<br/>
     &ensp;&ensp;数组中重复的数字（Repeating_numbers_in_the_array.java）<br/>
 </details>
+
 <details>
     &ensp;&ensp;<summary><big><b>哈希表（hash_table_items）</b></big></summary><br/>
     &ensp;&ensp;第一个只出现一次的字符（The_first_character_that_appears_only_once.java）<br/>
     &ensp;&ensp;数组中重复的数字（Repeating_numbers_in_the_array.java）<br/>
     &ensp;&ensp;回文排列（Palindrome.java）<br/>
 </details>
+
 
 <details>
     &ensp;&ensp;<summary><big><b>链表（linked_list_items）</b></big></summary><br/>
@@ -129,19 +131,25 @@
     &ensp;&ensp;主要元素（Main_element.java）<br/>
     &ensp;&ensp;连续数列（Continuous_sequence.java）<br/>
 </details>
+<details>
+    &ensp;&ensp;<summary><big><b>动态规划（dynamic_programming_items）</b></big></summary><br/>
+    &ensp;&ensp;连续数列（Continuous_sequence.java）<br/> 
+    &ensp;&ensp;按摩师（Masseur.java）<br/>  
+    &ensp;&ensp;三步问题（Three_step_problem.java）<br/>
+</details>
 
 ---
 
-**2020.6.1更新/创建内容：**
+**2020.6.2更新/创建内容：**
 
-旋转数组的最小数字
+创建dynamic_programming_items包
 
-稀疏数组搜索
+克隆相关题目1道+补充分治算法
 
-创建divide_and_conquer_items包
+按摩师
 
-克隆相关题目4道
+三步问题
 
 ------
 
-*简单面试题（正在进行中） -> 中等面试题 -> 困难面试题*
+*简单面试题（完成） -> 中等面试题（正在进行中） -> 困难面试题*
