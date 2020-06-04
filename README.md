@@ -97,6 +97,8 @@
     &ensp;&ensp;最大数值（Maximum_value.java）<br/>
     &ensp;&ensp;阶乘尾数（Factorial_mantissa.java）<br/>
     &ensp;&ensp;打印从1到最大的n位数（Print_n_digits_from_1_to_maximum.java）<br/>
+    &ensp;&ensp;把字符串转换成整数（Convert_string_to_integer.java）<br/> 
+    &ensp;&ensp;求1+2+…+n（Find_1_and_2_and___and_n.java）<br/>
 </details>
 <details>
     &ensp;&ensp;<summary><big><b>字符串（string_items）</b></big></summary><br/>
@@ -105,6 +107,7 @@
     &ensp;&ensp;字符串轮转（String_rotation.java）<br/>
     &ensp;&ensp;URL化（URLization.java）<br/>
     &ensp;&ensp;布尔运算（Boolean_operations.java）<br/>
+    &ensp;&ensp;把字符串转换成整数（Convert_string_to_integer.java）<br/>
 </details>
 <details>
     &ensp;&ensp;<summary><big><b>二分查找（binary_search_items）</b></big></summary><br/>
@@ -130,17 +133,13 @@
 
 ---
 
-**2020.6.3更新/创建内容：**
+**2020.6.4更新/创建内容：**
 
-栈 - 队列的最大值
+数学 - 把字符串转换成整数
 
-动态规划 - 布尔运算
+字符串 - 把字符串转换成整数
 
-字符串 - 布尔运算
-
-递归 - 布尔运算
-
-分治 - 布尔运算
+数学 - 求1+2+…+n Find_1_and_2_and___and_n
 
 ------
 
