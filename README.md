@@ -9,12 +9,10 @@
     &ensp;&ensp;包含min函数的栈（The_stack_containing_the_min_function.java）<br/>
     &ensp;&ensp;队列的最大值（The_maximum_value_of_the_queue.java）<br/>
 </details>
-
 <details>
     <summary><big><b>堆（heap_items）</b></big></summary><br/>
     &ensp;&ensp;最小的k个数（The_smallest_k_number.java）<br/>
 </details>
-
 <details>
     <summary><big><b>位运算（bit_manipulation_items）</b></big></summary><br/>
     &ensp;&ensp;数组中出现次数超过一半的数字（More_than_half_of_the_occurrences_in_the_array.java）<br/>
@@ -28,8 +26,6 @@
     &ensp;&ensp;翻转数位（Flip_digital.java）<br/>
     &ensp;&ensp;插入（insert.java）<br/>
 </details>
-
-
 <details>
     <summary><big><b>树（tree_items）</b></big></summary><br/>
     &ensp;&ensp;二叉树的最近公共祖先（The_nearest_public_ancestor_of_the_binary_tree.java）<br/>
@@ -50,12 +46,10 @@
 	&ensp;&ensp;最小高度树（Minimum_height_tree.java）<br/>
 	&ensp;&ensp;颜色填充（Color_fill.java）<br/>
 </details>
-
 <details>
     <summary><big><b>广度优先搜索（breadth_first_search_items）</b></big></summary><br/>
     &ensp;&ensp;从上到下打印二叉树II（Print_a_binary_tree_from_top_to_bottom_II.java）<br/>
 </details>
-
 <details>
     <summary><big><b>设计（design_items）</b></big></summary><br/>
     &ensp;&ensp;包含min函数的栈（The_stack_containing_the_min_function.java）<br/>
@@ -71,8 +65,6 @@
 	&ensp;&ensp;青蛙跳台阶问题（Frog_jumping_steps.java）<br/>
     &ensp;&ensp;布尔运算（Boolean_operations.java）<br/>
 </details>
-
-
 <details>
     &ensp;&ensp;<summary><big><b>数组（array_items）</b></big></summary><br/>
     &ensp;&ensp;主要元素（Main_element.java）<br/>
@@ -90,7 +82,6 @@
     &ensp;&ensp;数组中重复的数字（Repeating_numbers_in_the_array.java）<br/>
     &ensp;&ensp;回文排列（Palindrome.java）<br/>
 </details>
-
 <details>
     &ensp;&ensp;<summary><big><b>链表（linked_list_items）</b></big></summary><br/>
     &ensp;&ensp;返回倒数第 k 个节点（Returns_the_penultimate_k_th_node.java）<br/>
@@ -100,7 +91,6 @@
     &ensp;&ensp;回文链表（Palindrome_list.java）<br/>
     &ensp;&ensp;移除重复节点（Remove_duplicate_nodes.java）<br/>
 </details>
-
 <details>
     &ensp;&ensp;<summary><big><b>数学（math_items）</b></big></summary><br/>
     &ensp;&ensp;消失的数字（Disappearing_number.java）<br/>
@@ -108,7 +98,6 @@
     &ensp;&ensp;阶乘尾数（Factorial_mantissa.java）<br/>
     &ensp;&ensp;打印从1到最大的n位数（Print_n_digits_from_1_to_maximum.java）<br/>
 </details>
-
 <details>
     &ensp;&ensp;<summary><big><b>字符串（string_items）</b></big></summary><br/>
     &ensp;&ensp;回文排列（Palindrome.java）<br/>
@@ -117,7 +106,6 @@
     &ensp;&ensp;URL化（URLization.java）<br/>
     &ensp;&ensp;布尔运算（Boolean_operations.java）<br/>
 </details>
-
 <details>
     &ensp;&ensp;<summary><big><b>二分查找（binary_search_items）</b></big></summary><br/>
     &ensp;&ensp;0～n-1中缺失的数字（Numbers_missing_from_0_to_n_1.java）<br/>
@@ -132,7 +120,6 @@
     &ensp;&ensp;连续数列（Continuous_sequence.java）<br/>
     &ensp;&ensp;布尔运算（Boolean_operations.java）<br/>
 </details>
-
 <details>
     &ensp;&ensp;<summary><big><b>动态规划（dynamic_programming_items）</b></big></summary><br/>
     &ensp;&ensp;连续数列（Continuous_sequence.java）<br/> 
