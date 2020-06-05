@@ -24,7 +24,8 @@
     &ensp;&ensp;配对交换（Pair_exchange.java）<br/>
     &ensp;&ensp;整数转化（Integer_conversion.java）<br/>
     &ensp;&ensp;翻转数位（Flip_digital.java）<br/>
-    &ensp;&ensp;插入（insert.java）<br/>
+    &ensp;&ensp;插入（insert.java）<br/> 
+    &ensp;&ensp;交换数字（Exchange_numbers.java）<br/>
 </details>
 <details>
     <summary><big><b>树（tree_items）</b></big></summary><br/>
@@ -99,6 +100,7 @@
     &ensp;&ensp;打印从1到最大的n位数（Print_n_digits_from_1_to_maximum.java）<br/>
     &ensp;&ensp;把字符串转换成整数（Convert_string_to_integer.java）<br/> 
     &ensp;&ensp;求1+2+…+n（Find_1_and_2_and___and_n.java）<br/>
+    &ensp;&ensp;交换数字（Exchange_numbers.java）<br/>
 </details>
 <details>
     &ensp;&ensp;<summary><big><b>字符串（string_items）</b></big></summary><br/>
@@ -129,17 +131,17 @@
     &ensp;&ensp;按摩师（Masseur.java）<br/>  
     &ensp;&ensp;三步问题（Three_step_problem.java）<br/>
     &ensp;&ensp;布尔运算（Boolean_operations.java）<br/>
+    &ensp;&ensp;股票的最大利润（Stock_maximum_profit.java）<br/>
 </details>
-
 ---
 
-**2020.6.4更新/创建内容：**
+**2020.6.5更新/创建内容：**
 
-数学 - 把字符串转换成整数
+动态规划 - 股票的最大利润
 
-字符串 - 把字符串转换成整数
+位运算 - 交换数字
 
-数学 - 求1+2+…+n Find_1_and_2_and___and_n
+数学 - 交换数字
 
 ------
 
