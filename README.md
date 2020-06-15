@@ -26,6 +26,8 @@
     &ensp;&ensp;翻转数位（Flip_digital.java）<br/>
     &ensp;&ensp;插入（insert.java）<br/> 
     &ensp;&ensp;交换数字（Exchange_numbers.java）<br/>
+    &ensp;&ensp;数组中数字出现的次数（Number_of_occurrences_of_numbers_in_the_array.java）<br/>
+    &ensp;&ensp;数组中数字出现的次数II（Number_of_occurrences_of_numbers_in_the_array_II.java）<br/>
 </details>
 <details>
     <summary><big><b>树（tree_items）</b></big></summary><br/>
@@ -133,15 +135,14 @@
     &ensp;&ensp;布尔运算（Boolean_operations.java）<br/>
     &ensp;&ensp;股票的最大利润（Stock_maximum_profit.java）<br/>
 </details>
+
 ---
 
-**2020.6.5更新/创建内容：**
+**2020.6.15更新/创建内容：**
 
-动态规划 - 股票的最大利润
+位运算 - 数组中数字出现的次数
 
-位运算 - 交换数字
-
-数学 - 交换数字
+位运算 - 数组中数字出现的次数II
 
 ------
 
