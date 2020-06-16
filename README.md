@@ -84,6 +84,7 @@
     &ensp;&ensp;第一个只出现一次的字符（The_first_character_that_appears_only_once.java）<br/>
     &ensp;&ensp;数组中重复的数字（Repeating_numbers_in_the_array.java）<br/>
     &ensp;&ensp;回文排列（Palindrome.java）<br/>
+    &ensp;&ensp;最长不含重复字符的子字符串（The_longest_substring_without_repeated_characters.java）<br/>
 </details>
 <details>
     &ensp;&ensp;<summary><big><b>链表（linked_list_items）</b></big></summary><br/>
@@ -103,6 +104,7 @@
     &ensp;&ensp;把字符串转换成整数（Convert_string_to_integer.java）<br/> 
     &ensp;&ensp;求1+2+…+n（Find_1_and_2_and___and_n.java）<br/>
     &ensp;&ensp;交换数字（Exchange_numbers.java）<br/>
+    &ensp;&ensp;丑数（Ugly_number.java）<br/>
 </details>
 <details>
     &ensp;&ensp;<summary><big><b>字符串（string_items）</b></big></summary><br/>
@@ -138,11 +140,11 @@
 
 ---
 
-**2020.6.15更新/创建内容：**
+**2020.6.16更新/创建内容：**
 
-位运算 - 数组中数字出现的次数
+数学 - 丑数
 
-位运算 - 数组中数字出现的次数II
+哈希表 - 最长不含重复字符的子字符串
 
 ------
 
