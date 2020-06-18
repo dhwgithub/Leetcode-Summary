@@ -139,7 +139,6 @@
     &ensp;&ensp;礼物的最大价值（The_greatest_value_of_gifts.java）<br/> 
     &ensp;&ensp;把数字翻译成字符串（Translate_numbers_into_strings.java）<br/>
 </details>
-
 ---
 
 **2020.6.18更新/创建内容：**
@@ -147,8 +146,6 @@
 动态规划 - 礼物的最大价值
 
 动态规划 - 把数字翻译成字符串
-
-哈希表 - 最长不含重复字符的子字符串
 
 ------
 
