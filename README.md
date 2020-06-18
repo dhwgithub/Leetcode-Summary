@@ -136,13 +136,17 @@
     &ensp;&ensp;三步问题（Three_step_problem.java）<br/>
     &ensp;&ensp;布尔运算（Boolean_operations.java）<br/>
     &ensp;&ensp;股票的最大利润（Stock_maximum_profit.java）<br/>
+    &ensp;&ensp;礼物的最大价值（The_greatest_value_of_gifts.java）<br/> 
+    &ensp;&ensp;把数字翻译成字符串（Translate_numbers_into_strings.java）<br/>
 </details>
 
 ---
 
-**2020.6.16更新/创建内容：**
+**2020.6.18更新/创建内容：**
 
-数学 - 丑数
+动态规划 - 礼物的最大价值
+
+动态规划 - 把数字翻译成字符串
 
 哈希表 - 最长不含重复字符的子字符串
 
