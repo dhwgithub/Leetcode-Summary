@@ -3,6 +3,9 @@
 *题库来源：https://leetcode-cn.com/problemset/all/*
 
 <details>
+    <summary><big><b>每日一题【综合】（One question per day）</b></big></summary><br/>
+</details>
+<details>
     <summary><big><b>栈（stack_items）</b></big></summary><br/>
     &ensp;&ensp;用两个栈实现队列（Implement_queue_with_two_stacks.java）<br/>
     &ensp;&ensp;滑动窗口的最大值（Maximum_value_of_sliding_window.java）<br/>
@@ -139,13 +142,11 @@
     &ensp;&ensp;礼物的最大价值（The_greatest_value_of_gifts.java）<br/> 
     &ensp;&ensp;把数字翻译成字符串（Translate_numbers_into_strings.java）<br/>
 </details>
+
 ---
 
-**2020.6.18更新/创建内容：**
-
-动态规划 - 礼物的最大价值
-
-动态规划 - 把数字翻译成字符串
+**2020.8.14更新/创建内容：**
+每日一题
 
 ------
 
