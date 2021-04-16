@@ -141,12 +141,13 @@
     &ensp;&ensp;股票的最大利润（Stock_maximum_profit.java）<br/>
     &ensp;&ensp;礼物的最大价值（The_greatest_value_of_gifts.java）<br/> 
     &ensp;&ensp;把数字翻译成字符串（Translate_numbers_into_strings.java）<br/>
+    &ensp;&ensp;编辑距离（Edit Distance.java）<br/>
 </details>
 
 ---
 
-持续更新：每日一题
+持续更新...
 
 ------
 
-*简单面试题（完成） -> 中等面试题+每日一题（正在进行中） -> 困难面试题*
+*简单面试题（完成） -> 中等面试题+每日一题（正在进行中） -> 困难面试题（偶尔）*
